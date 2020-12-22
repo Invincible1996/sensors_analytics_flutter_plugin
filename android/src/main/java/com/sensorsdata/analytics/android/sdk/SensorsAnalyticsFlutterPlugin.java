@@ -1,4 +1,4 @@
-package com.sensorsdata.analytics.sensorsanalyticsflutterplugin;
+package com.sensorsdata.analytics.sdk;
 
 import android.text.TextUtils;
 

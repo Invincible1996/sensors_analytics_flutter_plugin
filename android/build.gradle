@@ -35,6 +35,4 @@ android {
 }
 
 dependencies {
-//    api 'com.sensorsdata.analytics.android:SensorsAnalyticsSDK:4.2.1'
-    implementation project(path: ':sensor_data')
 }
